@@ -18,7 +18,7 @@
 ## 🧑‍💻 Who I Am
 
 ```typescript
-const chaitanya = {
+const Chaitanya Pawar = {
   title: "CSE Student",
   stack: ["Python", "AI/ML", "C", "HTML/CSS/JS", "Flask", "Django", "AWS", "Git"],
   launchedProjects: [
